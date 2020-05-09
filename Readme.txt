@@ -16,6 +16,6 @@ Stephen Wilde - www.stephenwilde.net
 CSNorwood (WLGfx) - www.csnorwood.com
 
 ** Cheats **
-The use of cheats can be used by entering "CHEATS" without the quotes but they do have a penelty.
+The use of cheats can be used by entering "CHEAT" without the quotes but they do have a penelty.
 
 This game was created whilst I am learning C and C++ the plans for this is to have a full UI but for now it can be enjoyed in the terminal.
